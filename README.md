@@ -1,2 +1,1 @@
-# Timber-WordPress
-Timber Wordpress Theme
+# Berk WordPress Theme
