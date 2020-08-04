@@ -33,7 +33,7 @@
       <?php endwhile; ?>
     </div>
   <?php else: ?>
-    <div class="alert alert-border text-center">Berk Bey Hazretleri yazı eklemeye üşendiğinden yazı eklemedi.</div>
+    <div class="alert alert-border text-center">Site sahibi pörtföyüne ekleme yapmamış.</div>
   <?php endif; ?>
 </div>
 <?php get_footer(); ?>
